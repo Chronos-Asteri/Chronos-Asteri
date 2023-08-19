@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hi, I'm Roshaan 👋
+- 📫 How to reach me: linoroshaan.hi@gmail.com
 
 ### 🔭 __Actively working on *projects* related__ <br>
 - Data Analysis and Visualization 📈 
