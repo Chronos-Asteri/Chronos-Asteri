@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Chronos-Asteri/Chronos-Asteri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi, I'm Roshaan 👋
+
+### 🔭 Actively working on *projects* related <br>
+- Data Analysis and Visualization 📈 
+- Data Processing and Cleaning
+- Web Development (Django)
+
+***
+
+### __Bio__
+- 🎓 Currently studying - B.Tech (**Mathematics And Computing**) from Delhi Technological University
+- 📝 Going to start a blog soon...
+
+***
+
+### 📚 __Topic familiar:__
+- Python
+- Django
+- HTML
+- CSS
+- Pandas
+- matplotlib & Plotly
+
+> Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime
