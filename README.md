@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Roshaan 👋
 
-### 🔭 Actively working on *projects* related <br>
+### 🔭 __Actively working on *projects* related__ <br>
 - Data Analysis and Visualization 📈 
 - Data Processing and Cleaning
 - Web Development (Django)
